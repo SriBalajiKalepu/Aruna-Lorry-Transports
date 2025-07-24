@@ -58,8 +58,8 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-purple-600" />,
       title: "Email",
-      details: ["sales@arunalorrytransports.com"],
-      action: "mailto:sales@arunalorrytransports.com"
+      details: ["srinivas@arunalorrytransports.com"],
+      action: "mailto:srinivas@arunalorrytransports.com"
     },
     {
       icon: <Clock className="h-6 w-6 text-amber-600" />,
